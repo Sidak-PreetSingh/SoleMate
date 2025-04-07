@@ -1,16 +1,36 @@
-# shop_app
+# SoleMate
 
-A new Flutter project.
+A Perfect Shoe Companion
 
-## Getting Started
+## Screenshots
+### Opening Of App
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/1.jpg" height="350px">
+</p>
 
-This project is a starting point for a Flutter application.
+### View Product
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/2.jpg" height="350px">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Product Added to the cart with Pop-Up Message
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/3.jpg" height="350px">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### View-Cart
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/4.jpg" height="350px">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Deleting Product from Cart with Pop-UP Message
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/5.jpg" height="350px">
+</p>
+
+### Product deleted Successfully
+<p align="center">
+  <img src="https://github.com/Sidak-PreetSingh/SoleMate/blob/main/screenshots/6.jpg" height="350px">
+</p>
+
+
